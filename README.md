@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Rohit Motdhare — AI Engineer | Agentic AI, Backend Systems, Distributed Systems, and Data Infrastructure" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Rohit Motdhare
@@ -34,6 +38,11 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-7C3AED?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4F46E5?style=for-the-badge)
+![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--loop-9333EA?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0F766E?style=for-the-badge)
 
 ### ⚙️ Backend & Software Engineering
 
@@ -43,8 +52,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge)
 
 ### ☁️ Cloud & Data Infrastructure
 
@@ -55,8 +69,10 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-F97316?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🚀 Featured Projects
 
